@@ -216,7 +216,7 @@ example:
 ===================================================
 
 The `match_phrase_prefix` query is a poor-man's autocomplete.  It is very easy
-to use, which let's you get started quickly with _search-as-you-type_ but it's
+to use, which lets you get started quickly with _search-as-you-type_ but its
 results, which usually are good enough,  can sometimes be confusing.
 
 Consider the query string `quick brown f`.  This query works by creating a
